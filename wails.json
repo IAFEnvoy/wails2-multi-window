@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "wails2-multi-window",
+  "outputfilename": "wails2-multi-window",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "IAFEnvoy",
+    "email": "tanksheng545@126.com"
+  }
+}

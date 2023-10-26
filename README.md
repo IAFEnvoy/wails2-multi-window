@@ -1,0 +1,1 @@
+This is the multi-window template for Wails2 depends on official template
